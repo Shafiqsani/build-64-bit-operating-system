@@ -12,11 +12,3 @@ Build your own OS:
 https://www.youtube.com/watch?v=FkrpUaGThTQ
 
 https://www.youtube.com/watch?v=wz9CZBeXR6U
-
-Setting up the building environment
-VS CODE should be install firstSample image
-Download Docker for virtualization of resourcesSample image
-Download Qemu for running the operating systemSample image
-WSL 2 follow the guideline for installation
-Enable the Virtualization from system boot if not enabled
-Setting up the path for both docker and Qemu in the system variables
